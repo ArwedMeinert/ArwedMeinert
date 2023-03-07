@@ -18,7 +18,7 @@ I'm a German Electrical Engineer and like doing projects on the side to my daily
   
   ---
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArwedMeinert&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArwedMeinert&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
   ---
   
