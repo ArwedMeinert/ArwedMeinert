@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Arwed Meinert
+**'Electrical Engineer'**
+I'm a German Electrical Engineer and like doing projects on the side to my daily work. My Projects generally have some kind of hard- and software component, but I like trying out new stuff like 3d printing or the design and manufacturing of PCBs. The quality of my projects varies between designing a PCB with multiple iterations and stuffing a prototype into a box and don't touch it anymore. Generally, the latter is also my approach to coding, but until now I have finished every project.
 <!--
 **ArwedMeinert/ArwedMeinert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
