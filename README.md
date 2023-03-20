@@ -2,7 +2,8 @@
 
 ## **Electrical Engineer**
 
-I'm a German Electrical Engineer and like doing projects on the side to my daily work. My Projects generally have some kind of hard- and software component, but I like trying out new stuff like 3d printing or the design and manufacturing of PCBs. The quality of my projects varies between designing a PCB with multiple iterations and stuffing a prototype into a box and don't touch it anymore. Generally, the latter is also my approach to coding, but until now I have finished every project.
+I'm a German Electrical Engineer and like doing projects on the side to my daily work. My Projects generally have some kind of hard- and software component, but I like trying out new stuff like 3d printing or the design and manufacturing of PCBs. The quality of my projects varies from designing a PCB with multiple iterations to stuffing a prototype into a box and don't touch it anymore. Generally, the latter is also my approach to coding, but until now I have finished every project.
+Most of the projects were done in my free time. Therefore, the documentation in the code is a mixture of german and english. Some projects have a dedicated documentation in pdf form. I did those as a practical assignment for my university courses. The documentation theefore is in german. 
 
 ---
 
@@ -24,8 +25,8 @@ I'm a German Electrical Engineer and like doing projects on the side to my daily
   
   Featured Projects:
   
- - [Hotkey-Board (C) ⌨️](https://github.com/ArwedMeinert/Hotkey-Board)
- - [Light Alarm Clock (C) ⏰](https://github.com/ArwedMeinert/Light-Alarm-Clock-)
+ - [Hotkey-Board (C++) ⌨️](https://github.com/ArwedMeinert/Hotkey-Board)
+ - [Light Alarm Clock (C++) ⏰](https://github.com/ArwedMeinert/Light-Alarm-Clock-)
  - [LED-Matrix (LabVIEW) 🚥](https://github.com/ArwedMeinert/Light-Alarm-Clock-)
  - [Evaluation of Proposional Expressions (MatLAB)](https://github.com/ArwedMeinert/Evaluation-of-Propositional-Expressions)
 <!--
