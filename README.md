@@ -24,7 +24,10 @@ I'm a German Electrical Engineer and like doing projects on the side to my daily
   
   Featured Projects:
   
-  [Hotkey-Board](https://github.com/ArwedMeinert/Hotkey-Board)
+ - [Hotkey-Board (C) ⌨️](https://github.com/ArwedMeinert/Hotkey-Board)
+ - [Light Alarm Clock (C) ⏰](https://github.com/ArwedMeinert/Light-Alarm-Clock-)
+ - [LED-Matrix (LabVIEW) 🚥](https://github.com/ArwedMeinert/Light-Alarm-Clock-)
+ - [Evaluation of Proposional Expressions (MatLAB)](https://github.com/ArwedMeinert/Evaluation-of-Propositional-Expressions)
 <!--
 **ArwedMeinert/ArwedMeinert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
