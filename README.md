@@ -4,6 +4,7 @@
 
 I'm a German Electrical Engineer and like doing projects on the side to my daily work. My Projects generally have some kind of hard- and software component, but I like trying out new stuff like 3d printing or the design and manufacturing of PCBs. The quality of my projects varies from designing a PCB with multiple iterations to stuffing a prototype into a box and don't touch it anymore. Generally, the latter is also my approach to coding, but until now I have finished every project.
 
+
 Most of the projects were done in my free time. Therefore, the documentation in the code is a mixture of german and english. Some projects have a dedicated documentation in pdf form. I did those as a practical assignment for my university courses. The documentation theefore is in german. 
 
 ---
