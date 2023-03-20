@@ -24,7 +24,7 @@ I'm a German Electrical Engineer and like doing projects on the side to my daily
   
   Featured Projects:
   
-  [Hotkey-Board]([https://link-url-here.org](https://github.com/ArwedMeinert/Hotkey-Board))
+  [Hotkey-Board](https://github.com/ArwedMeinert/Hotkey-Board)
 <!--
 **ArwedMeinert/ArwedMeinert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
