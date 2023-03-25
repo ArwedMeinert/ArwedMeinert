@@ -29,7 +29,7 @@ Most of the projects were done in my free time. Therefore, the documentation in 
   
  - [Hotkey-Board (C++) ⌨️](https://github.com/ArwedMeinert/Hotkey-Board)
  - [Light Alarm Clock (C++) ⏰](https://github.com/ArwedMeinert/Light-Alarm-Clock-)
- - [LED-Matrix (LabVIEW) 🚥](https://github.com/ArwedMeinert/Light-Alarm-Clock-)
+ - [LED-Matrix (LabVIEW) 🚥](https://github.com/ArwedMeinert/LabView-Led-Matrix)
  - [Evaluation of Proposional Expressions (MatLAB)](https://github.com/ArwedMeinert/Evaluation-of-Propositional-Expressions)
 <!--
 **ArwedMeinert/ArwedMeinert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
