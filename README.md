@@ -19,9 +19,8 @@ Most of the projects were done in my free time. Therefore, the documentation in 
    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-line.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
 <div>
   
-  ---
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArwedMeinert&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+ ** [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArwedMeinert&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)**k
   
   ---
   
