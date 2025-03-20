@@ -27,6 +27,7 @@ Most of the projects were done in my free time. Therefore, the documentation in 
   
   Featured Projects:
  - [Spinning Light (C++) 🚴‍♂️🚦](https://github.com/ArwedMeinert/Spinning-Light)
+ - [Autonomous Robotics Project (ROS/MatLAB) 🤖](https://github.com/ArwedMeinert/AutonomousRobotics)
  - [Hotkey-Board (C++) ⌨️](https://github.com/ArwedMeinert/Hotkey-Board)
  - [Light Alarm Clock (C++) ⏰](https://github.com/ArwedMeinert/Light-Alarm-Clock-)
  - [LED-Matrix (LabVIEW) 🚥](https://github.com/ArwedMeinert/LabView-Led-Matrix)
