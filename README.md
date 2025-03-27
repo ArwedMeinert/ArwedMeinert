@@ -2,10 +2,23 @@
 
 ## **Robotics Engineer**
 
-I'm a German Robotics Engineer and like doing projects on the side to my daily work. My Projects generally have some kind of hard- and software component, but I like trying out new stuff like 3d printing or the design and manufacturing of PCBs. The quality of my projects varies from designing a PCB with multiple iterations to stuffing a prototype into a box and don't touch it anymore. Generally, the latter is also my approach to coding, but until now I have finished every project.
+I'm a German Robotics Engineer with a background in electrical engineering and a passion for hands-on projects. My work blends hardware and software, including programming microcontrollers, designing circuits, and creating 3D-printed components. I enjoy building complete systems, from initial concept to final assembly.
 
+## **Education**
+- **Apprenticeship as an Electrician** - Bassum, Germany
+- **B.Eng in Electrical Engineering** – Nordhausen, Germany
+- **M.Sc in Robotics and Automation** – Trollhättan, Sweden
 
-Most of the projects were done in my free time. Therefore, the documentation in the code is a mixture of German and English. Some projects have a dedicated documentation in pdf form. I did those as a practical assignment for my university courses. The documentation therefore is in German.
+## **Projects**
+I work on projects both during my studies and in my free time. University projects often have structured documentation in german and english, while personal projects range from well-documented GitHub repositories to quick prototypes with minimal notes. Over time, my projects have become more complex and better documented.
+
+## **Skills & Interests**
+- Embedded systems & microcontroller programming
+- Circuit design & PCB manufacturing
+- 3D printing & mechanical design
+- Prototyping & system integration
+
+Some projects get polished; others end up in a box—either way, I enjoy the process.
 
 ---
 
