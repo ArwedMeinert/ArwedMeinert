@@ -42,6 +42,7 @@ Some projects get polished; others end up in a box—either way, I enjoy the pro
 ![](https://raw.githubusercontent.com/ArwedMeinert/github-stats/master/generated/languages.svg#gh-dark-mode-only)
   
   Featured Projects:
+ - [Path Planning for an Industrial Robot  (Python, Kawasaki AS) 🦾🍪](https://github.com/ArwedMeinert/Automatic-Path-Generation-for-Kawasaki-Robot)
  - [Spinning Light (C++) 🚴‍♂️🚦](https://github.com/ArwedMeinert/Spinning-Light)
  - [Autonomous Robotics Project (ROS/MatLAB) 🤖](https://github.com/ArwedMeinert/AutonomousRobotics)
  - [Hotkey-Board (C++) ⌨️](https://github.com/ArwedMeinert/Hotkey-Board)
