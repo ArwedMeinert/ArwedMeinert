@@ -39,6 +39,7 @@ Some projects get polished; others end up in a box—either way, I enjoy the pro
   
 
   ---
+![](https://raw.githubusercontent.com/ArwedMeinert/github-stats/master/generated/languages.svg#gh-dark-mode-only)
   
   Featured Projects:
  - [Spinning Light (C++) 🚴‍♂️🚦](https://github.com/ArwedMeinert/Spinning-Light)
