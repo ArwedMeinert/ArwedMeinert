@@ -12,14 +12,16 @@ Most of the projects were done in my free time. Therefore, the documentation in 
 🛠️ Languages and Tools:
 <div>
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="60" height="60"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/labview/labview-original.svg" title="LabView" alt="LabView" width="60" height="60"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="60" height="60"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/matlab/matlab-original.svg" title="MatLab" alt="MatLab" width="60" height="60"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/fedora/fedora-original.svg" title="Fedora" alt="Fedora" width="60" height="60"/>&nbsp;
-   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-line.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/gazebo/gazebo-original.svg" title="Arduino" alt="Arduino" width="60" height="60"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="Arduino" alt="Arduino" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/ArwedMeinert/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/ArwedMeinert/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/ArwedMeinert/devicon/blob/master/icons/labview/labview-original.svg" title="LabView" alt="LabView" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/ArwedMeinert/devicon/blob/master/icons/matlab/matlab-original.svg" title="MatLab" alt="MatLab" width="60" height="60"/>&nbsp;
+   <img src="https://github.com/ArwedMeinert/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="60" height="60"/>&nbsp;
+   <img src="https://github.com/ArwedMeinert/devicon/blob/master/icons/gazebo/gazebo-original.svg" title="Gazebo" alt="Gazebo" width="60" height="60"/>&nbsp;
+   <img src="https://github.com/ArwedMeinert/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenV" width="60" height="60"/>&nbsp;
+   <img src="https://github.com/ArwedMeinert/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Pi" alt="Pi" width="60" height="60"/>&nbsp;
+   <img src="https://github.com/ArwedMeinert/devicon/blob/master/icons/linux/linux-plain.svg" title="Linux" alt="Linux" width="60" height="60"/>&nbsp;
+   <img src="https://github.com/ArwedMeinert/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="60" height="60"/>&nbsp;
 <div>
   
 
