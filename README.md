@@ -40,8 +40,9 @@ Some projects get polished; others end up in a box—either way, I enjoy the pro
 
   ---
 ![](https://raw.githubusercontent.com/ArwedMeinert/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-  
+
   Featured Projects:
+ - [Heart Rate Predictor  (Python, PyTorch) 🚴‍♂️❤️](https://github.com/ArwedMeinert/HeartRatePredictor)
  - [Path Planning for an Industrial Robot  (Python, Kawasaki AS) 🦾🍪](https://github.com/ArwedMeinert/Automated-Path-Generation-for-6DoF-Robot)
  - [Spinning Light (C++) 🚴‍♂️🚦](https://github.com/ArwedMeinert/Spinning-Light)
  - [Autonomous Robotics Project (ROS/MatLAB) 🤖](https://github.com/ArwedMeinert/AutonomousRobotics)
