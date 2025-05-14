@@ -44,6 +44,7 @@ Some projects get polished; others end up in a box—either way, I enjoy the pro
   Featured Projects:
  - [Path Planning for an Industrial Robot  (Python, Kawasaki AS) 🦾🍪](https://github.com/ArwedMeinert/Automated-Path-Generation-for-6DoF-Robot)
  - [Spinning Light (C++) 🚴‍♂️🚦](https://github.com/ArwedMeinert/Spinning-Light)
+ - [Heart Rate ERG Controller  (Python) 🚴‍♂️❤️](https://github.com/ArwedMeinert/HR-ERG)
  - [Heart Rate Predictor  (Python, PyTorch) 🚴‍♂️❤️](https://github.com/ArwedMeinert/HeartRatePredictor)
  - [Autonomous Robotics Project (ROS/MatLAB) 🤖](https://github.com/ArwedMeinert/AutonomousRobotics)
  - [Hotkey-Board (C++) ⌨️](https://github.com/ArwedMeinert/Hotkey-Board)
